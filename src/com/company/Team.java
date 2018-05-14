@@ -15,4 +15,4 @@ public class Team {
                 System.out.println("Дикая дичь"+ teamName + chuvaks + trener);
         }
 
-} zozozDDSDA
+} zozozDDS
